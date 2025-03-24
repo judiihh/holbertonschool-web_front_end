@@ -164,7 +164,7 @@ a[href]:active {
 
 .nav .nav-link {
     display: block;
-    padding: 0.2rem 1rem;
+    padding: 0.2rem;
 }
 
 .nav .nav-link:hover {
@@ -178,7 +178,7 @@ a[href]:active {
     left: 0;
     background-color: var(--color-white);
     width: 0;
-    height: 20%;
+    height: 0.2rem;
 }
 
 .nav .nav-item:hover .nav-link::before {
